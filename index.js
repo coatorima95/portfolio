@@ -297,7 +297,7 @@ function footerComponent ({ data = {}, theme = {} } = {}) {
       <a href="https://www.facebook.com/coatorima95">
        <i class="${css.icon} fa fa-facebook" aria-hidden="true"></i>
       </a>
-       <a href="https://www.instagram.com/coatorima95/">
+       <a href="https://www.instagram.com/">
          <i class="${css.icon} fa fa-instagram" aria-hidden="true"></i>
          </a>
     </div>
