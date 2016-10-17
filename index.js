@@ -59,7 +59,7 @@ function webpage ({ data = {}, theme = {} } = {}) {
   var css = csjs`
     body {
       text-align: center;
-      background-color: ${theme.green};
+      background-color: ${theme.lightGrey};
       color: ${theme.black};
       font-family: ${theme.font};
     }
